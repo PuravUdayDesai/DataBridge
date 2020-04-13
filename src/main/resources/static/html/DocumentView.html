@@ -1,0 +1,137 @@
+<html>
+
+<head>
+    <title>
+        View Document
+    </title>
+    <link rel="icon" href="../images/Logo.png" type="image/icon type">
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="..\css\MainTemplate.css">
+    <link rel="stylesheet" href="..\css\DocumentViewCSS.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+<style>
+
+</style>
+
+<body>
+    <div id="mainBody">
+        <div id="MainTextArea" hidden></div>
+        <div id="bodyHeader">
+            <div id="circuralActivity">Logout</div>
+            <div id="thisActivity"></div>
+
+            <div id="subbordinateActivity">
+                <div class="subbordinateActivities"> <a href="../html/Dashboard.html" style="text-decoration:none; color:white;">Dashboard</a></div>
+            </div>
+        </div>
+
+        <div id="bodyContent">
+            <div id="LeftContent">
+                <div id="ContentViewer">
+                    <!-- <div id="PurchaseDocumentButton">
+                        <div id="PurchaseDocumentButtonAlign">
+                            Buy Document
+                        </div>
+                    </div> -->
+                </div>
+                <div id="DocumentData">
+                    <div id="DocumentName">
+                        <div id="Placeholder"></div>
+                        <div id="DocumentNameAlign">
+
+                        </div>
+                    </div>
+                    <div id="CreationDate">
+                        <div id="CreationDateName">
+                            Creation Date:
+                        </div>
+                        <div id="CreationDateText">
+
+                        </div>
+                    </div>
+
+                    <div id="Mime">
+                        <div id="MimeName">
+                            Type:
+                        </div>
+                        <div id="MimeText">
+
+                        </div>
+                    </div>
+
+
+                    <div id="EconomicAccess">
+                        <div id="EconomicAccessName">
+                            Economic Access:
+                        </div>
+                        <div id="EconomicAccessText">
+
+                            <font color="goldenrod"> &#8377;</font>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div id="RightContent">
+                <div id="Feedbacks">
+                    <div id="FeedbackTitle">
+                        <div id="Placeholder"></div>
+                        <div id="FeedbackTextAlign">
+                            Feedbacks
+                        </div>
+
+                    </div>
+                    <div id="FeedbackList">
+                        <div class="FeedbackLeft">
+                            <div class="StarsRating">
+                                <!-- 5 <i class="tiny material-icons" style="color:crimson">favorite</i> -->
+                            </div>
+                            <div class="FeedbackText">
+                                <!-- The book "The Complete Reference Java" By Herbert Schildt is a great book to read. -->
+                            </div>
+                            <div class="Feedbacker">
+                                <!-- Amazon Prime -->
+                            </div>
+                        </div>
+                        <div class="FeedbackRight">
+                            <div class="StarsRating">
+                                <!-- 5 &#129505; -->
+                            </div>
+                            <div class="FeedbackText">
+                                <!-- Hello -->
+                            </div>
+                            <div class="Feedbacker">
+                                <!-- Purav Uday Desai -->
+                            </div>
+                        </div>
+                    </div>
+                    <div id="WriteFeedback">
+                        <div id="FeedbackStart">
+                            <input type="range" min="1" max="5" value="1" class="slider" id="myRange">
+                        </div>
+                        <div id="editor">
+
+                        </div>
+                        <div id="SendButton">
+                            <img src="../images/SubmitButton.png" alt="SendFeedback" id="SendMessageIconId" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="bodyFooter">
+
+        </div>
+    </div>
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../js/notify.js"></script>
+<script src="../js/DocumentViewJS.js"></script>
+
+</html>

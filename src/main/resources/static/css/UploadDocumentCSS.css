@@ -1,0 +1,311 @@
+#bodyContent {
+    width: 100%;
+    height: 90%;
+    background-image: url("../images/purav.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#Placeholder {
+    width: 100%;
+    height: 1%;
+}
+
+#MainContent {
+    width: 70%;
+    height: 80%;
+    margin-left: 15%;
+    margin-top: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(107, 107, 107);
+    color: white;
+    background-color: rgba(43, 42, 42, 0.596);
+}
+
+#LeftContent {
+    float: left;
+    width: 60%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#RightContent {
+    float: left;
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#DocumentName {
+    width: 90%;
+    height: 10%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#DocumentDescription {
+    width: 90%;
+    height: 80%;
+    margin-left: 3%;
+    margin-top: 4%;
+}
+
+#UploadDocument {
+    width: 90%;
+    height: 20%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#EconomicAccess {
+    width: 90%;
+    height: 50%;
+    margin-left: 3%;
+    margin-top: 10%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+}
+
+#UploadDocumentButton {
+    width: 60%;
+    height: 15%;
+    margin-left: 20%;
+    margin-top: 1%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(236, 231, 231);
+    background-color: rgba(185, 248, 199, 0.466);
+}
+
+#MainDocumentNameInputText {
+    width: 100%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(158, 156, 156);
+    background-color: white;
+}
+
+#DocumentDescriptionText {
+    width: 100%;
+    height: 10%;
+}
+
+#DocumentDescriptionTextAlign {
+    width: 90%;
+    height: 100%;
+    text-align: center;
+    margin-left: 5%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: x-large;
+}
+
+#DocumentDescriptionInput {
+    width: 90%;
+    height: 80%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+#editor {
+    width: 100%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(158, 156, 156);
+    background-color: rgba(250, 250, 250, 0.342);
+}
+
+#MainUploadDocument {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(227, 253, 227, 0.39);
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(247, 247, 247);
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+
+#MainUserDocumentFileUploadButton {
+    opacity: 0;
+    width: 25%;
+    height: 16%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-top: 7%;
+    margin-left: 58%;
+    position: absolute;
+}
+
+#PaidAccessWindow {
+    width: 100%;
+    height: 50%;
+    margin-top: 5%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+
+#Price {
+    display: none;
+    width: 90%;
+    height: 30%;
+    margin-left: 5%;
+    margin-top: 11%;
+}
+
+#PriceInput {
+    width: 90%;
+    height: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(158, 156, 156);
+    background-color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+#UploadDocumentButtonTextAlign {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10%;
+    color: rgba(1, 51, 10, 0.801);
+}
+
+#DocumentUploadedNotification {
+    width: 17%;
+    height: 60%;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+    margin-left: 40%;
+    margin-top: 2%;
+    display: none;
+}
+
+#ShowFree {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 13%;
+}
+
+#PriceInformation {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: small;
+    color: rgb(163, 49, 49);
+}
+
+.subbordinateActivities {
+    float: right;
+    width: auto;
+    height: 100%;
+    margin-left: 3%;
+}
+
+
+/*----------------------------------------------------------------------------------------------------*/
+
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    margin-top: 5%;
+    margin-left: 10%;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+/* Hide the browser's default radio button */
+
+.container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+/* Create a custom radio button */
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(158, 156, 156);
+    background-color: rgb(240, 212, 208);
+    border-radius: 50%;
+}
+
+
+/* On mouse-over, add a grey background color */
+
+.container:hover input~.checkmark {
+    background-color: rgb(143, 192, 141);
+}
+
+
+/* When the radio button is checked, add a blue background */
+
+.container input:checked~.checkmark {
+    background-color: white;
+}
+
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+
+/* Show the indicator (dot/circle) when checked */
+
+.container input:checked~.checkmark:after {
+    display: block;
+}
+
+
+/* Style the indicator (dot/circle) */
+
+.container .checkmark:after {
+    top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgb(3, 148, 76);
+}

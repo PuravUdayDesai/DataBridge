@@ -1,0 +1,147 @@
+#bodyContent {
+    background-image: url("../images/purav.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#Placeholder {
+    width: 30%;
+    height: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#LoginForm {
+    width: 50%;
+    height: 60%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#LogoImage {
+    width: 17%;
+    height: 30%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#DataBagLogoImage {
+    width: 100%;
+    height: 100%;
+}
+
+#LoginText {
+    width: 50%;
+    height: 10%;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 1%;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+#LoginContent {
+    width: 100%;
+    height: 50%;
+    margin-top: 3%;
+}
+
+#EmailContent {
+    width: 100%;
+    height: 20%;
+}
+
+#EmailInput {
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    margin-right: 30%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    border-color: rgb(158, 156, 156);
+}
+
+#EmailInputText {
+    width: 90%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-style: none;
+}
+
+#NextForPasswordOnFirstQuery {
+    float: right;
+    width: 10%;
+    height: 100%;
+    background-color: white;
+    border-top-right-radius: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#PasswordContent {
+    width: 100%;
+    height: 20%;
+    margin-top: 0.2%;
+}
+
+#PasswordInput {
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    margin-right: 30%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(158, 156, 156);
+}
+
+#PasswordInputText {
+    width: 90%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: medium;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-style: none;
+}
+
+#NextForPasswordOnSecondQuery {
+    float: right;
+    width: 10%;
+    height: 100%;
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.NextQueryImage {
+    width: 100%;
+    height: 100%;
+}
+
+#ForgotPassword {
+    width: 40%;
+    height: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+}
+
+#ForgotPasswordHyperLinkText {
+    width: 100%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: small;
+    font-style: oblique;
+    color: rgb(7, 7, 150);
+    text-align: center;
+}
