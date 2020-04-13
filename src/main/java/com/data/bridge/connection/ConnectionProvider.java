@@ -10,7 +10,7 @@ public class ConnectionProvider {
 	{
 		
 		Class.forName("org.postgresql.Driver");
-		c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/data_bridge", "postgres", "purav");
+		c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/data_bridge", "<USERNAME>", "<PASSWORD>");
 		c.setAutoCommit(false);
 		return c;
 	}
