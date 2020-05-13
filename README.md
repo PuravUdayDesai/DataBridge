@@ -1,2 +1,2 @@
 # DataBridge
-This is College MiniProject Developed using SpringBoot and DHTML
+This is College E-Commerce MiniProject Developed using SpringBoot and DHTML
