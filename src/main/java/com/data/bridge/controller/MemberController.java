@@ -81,7 +81,7 @@ public class MemberController {
 			return new ResponseEntity<Long>((long)0,HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		String host="smtp.gmail.com";  
-	 	final String user="<EMAIL_IS>";//change accordingly  
+	 	final String user="<EMAIL_ID>";//change accordingly  
  		final String password="<PASSWORD>";//change accordingly  
 	 	Properties props = new Properties();  
  		props.put("mail.smtp.host",host);  
