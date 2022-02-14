@@ -14,5 +14,12 @@ In today’s world, information can take many forms. It can be text, image, audi
   <img src="https://user-images.githubusercontent.com/44437936/152978478-3444294e-f218-4aed-bf0f-d9e5c1e028b7.png" />
 </p>
 
-# Development Workflow
-![image](https://user-images.githubusercontent.com/44437936/152978743-8f188ec9-ed8e-4182-9a68-5666723addc8.png)
+# Documentation
+
+Project Development Workflow: []()
+
+Cost Estimation: []()
+
+Gantt Chart: []()
+
+
