@@ -16,10 +16,10 @@ In today’s world, information can take many forms. It can be text, image, audi
 
 # Documentation
 
-Project Development Workflow: []()
+Project Development Workflow: [Project Development Workflow Image](https://drive.google.com/file/d/1mWrzS1YiL59o_Zdn1eOfd1HEqo8iejCT/view?usp=sharing)
 
-Cost Estimation: []()
+Cost Estimation: [Cost Estimation Excel Sheet](https://coepac-my.sharepoint.com/:x:/g/personal/puravud20_comp_coep_ac_in/EeoL1AGyoglIqIVN4TOWAucBhDPw_WIimS1-Fh0CG3WkoA?e=eqR4Jw)
 
-Gantt Chart: []()
+Gantt Chart: [Gantt Chart PDF](https://drive.google.com/file/d/1fRkUTixxqXUShL-0eFzsyFIzq1F3Zhhj/view?usp=sharing)
 
 
