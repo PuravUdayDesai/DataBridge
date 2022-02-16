@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44437936/154249420-1429a877-aad4-449f-9629-6ec283f4e6f8.png" /><BR />
-  <strong>C2C E-Commerce Data Marketplace</strong>
+  <img src="https://user-images.githubusercontent.com/44437936/154250563-40e30e41-4acf-4e86-9b83-8616b61d26a1.png" /><BR />
 </p>
 
 # Project Topic
