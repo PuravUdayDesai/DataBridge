@@ -1,7 +1,7 @@
-# openocean
-This is College E-Commerce MiniProject Developed using SpringBoot and DHTML
-
-Video available [here](https://drive.google.com/file/d/1xD1uSdcyn1nZax0yI0niFawMHSiKXfSB/view)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44437936/154249420-1429a877-aad4-449f-9629-6ec283f4e6f8.png" /><BR />
+  <strong>C2C E-Commerce Data Marketplace</strong>
+</p>
 
 # Project Topic
 Develop and devise a web-based C2C E-Commerce Data Marketplace
