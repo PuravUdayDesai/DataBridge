@@ -22,3 +22,5 @@ Cost Estimation: [Cost Estimation Excel Sheet](https://coepac-my.sharepoint.com/
 Gantt Chart: [Gantt Chart PDF](https://drive.google.com/file/d/1fRkUTixxqXUShL-0eFzsyFIzq1F3Zhhj/view?usp=sharing)
 
 Prototype Design: [Miro Prototype Screens](https://miro.com/app/board/uXjVOPC4QZ4=/?invite_link_id=544202088250)
+
+Software Requirement Specification: [Software Requirement Specification PDF](https://drive.google.com/file/d/1shjAJRgapNaN4pPTY1N6LxIDQwUN3_UT/view?usp=sharing)
